@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/sgao24/Download/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Test for Download "细菌性皮肤病"](https://github.com/sgao24/downloads/assets/01.pptx)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
