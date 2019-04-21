@@ -12,10 +12,10 @@ For more slides, please contact me via  [gaosihao@stu.cqmu.edu.cn](mailto:gaosih
 
 示例：
 
-```html
+```
 http://e-learning.cqmu.edu.cn/meol/common/script/preview/download***_preview***.jsp?fileid=721570&resid=156649&lid=1730
 ```
 
-```html
+```
 http://e-learning.cqmu.edu.cn/meol/common/script/download.jsp?fileid=721570&resid=156649&lid=1730
 ```
