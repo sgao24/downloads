@@ -5,7 +5,10 @@ layout: default
 ## Slides
 ### 感官系统疾病
   - [细菌性皮肤病](assets/细菌性皮肤病.ppt)  
+  - [真菌性皮肤病](assets/真菌性皮肤病.ppt)  
   - [银屑病](assets/银屑病.pptx)  
+  - [大疱性皮肤病](assets/大疱性皮肤病.ppt)  
+
 
 ***For personal use ONLY***
 
