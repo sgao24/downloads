@@ -10,3 +10,5 @@ layout: default
 ***For personal use ONLY***
 
 For more slides, please contact me via  [gaosihao@stu.cqmu.edu.cn](mailto:gaosihao@stu.cqmu.edu.cn)
+
+## [如何在网络教学平台下载隐藏文件](_posts/2019-04-21-How-to-Download-Files-from-THEOL.html)
