@@ -7,7 +7,8 @@ layout: default
   - [细菌性皮肤病](assets/细菌性皮肤病.ppt)  
   - [真菌性皮肤病](assets/真菌性皮肤病.ppt)  
   - [银屑病](assets/银屑病.pptx)  
-  - [大疱性皮肤病](assets/大疱性皮肤病.pptx)  
+  - [大疱性皮肤病](assets/大疱性皮肤病.pptx)
+  
 ### 血液及免疫系统疾病
   - [风湿免疫病总论](assets/风湿免疫病总论.pdf)
 
